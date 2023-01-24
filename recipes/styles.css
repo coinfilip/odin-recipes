@@ -1,0 +1,12 @@
+img {
+    height: auto;
+    max-width: 480px;
+}
+
+h1, h2 {
+    font-family: monospace;
+}
+
+li, p {
+    font-family: sans-serif;
+}
